@@ -1,4 +1,4 @@
-# Atmos Quick Start
+# Atmos Quick Start 2
 
 [Atmos](https://atmos.tools/) is a universal tool for DevOps and cloud automation. It allows
 deploying and destroying Terraform and helmfile components, as well as running workflows to bootstrap or teardown all resources in an account.
