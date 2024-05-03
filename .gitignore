@@ -2,3 +2,5 @@
 token
 webhook*
 deployment.yml
+export ATMOS_CLI_CONFIG_PATH=/Users/vikram/Library/CloudStorage/OneDrive-Sony/Work/Repositories/atlantis-demo/rootfs/usr/local/etc/atmos
+export ATMOS_BASE_PATH=/Users/vikram/Library/CloudStorage/OneDrive-Sony/Work/Repositories/atlantis-demo
